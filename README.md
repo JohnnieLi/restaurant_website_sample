@@ -4,22 +4,22 @@ This website has simple functions such as show restaurant infomation, sign up to
 <table>
 <tr>
 <td>
-<a>home page<img src="https://github.com/JohnnieLi/restaurant_website_sample/blob/master/demoImages/home.png" width="450" height="400"></a>
+<a>home page<img src="https://github.com/JohnnieLi/restaurant_website_sample/blob/master/demoImages/home.png" width="500" height="300"></a>
 </td>
 
 <td>
-<a>contact<img src="https://github.com/JohnnieLi/restaurant_website_sample/blob/master/demoImages/contact.png" width="450" height="400"></a>
+<a>contact<img src="https://github.com/JohnnieLi/restaurant_website_sample/blob/master/demoImages/contact.png" width="500" height="300"></a>
 </td>
 </tr>
 
 <tr>
 <td>
-<a>list<img src="https://github.com/JohnnieLi/restaurant_website_sample/blob/master/demoImages/list.png" width="450" 
-height="400"></a>
+<a>list<img src="https://github.com/JohnnieLi/restaurant_website_sample/blob/master/demoImages/list.png" width="500" 
+height="300"></a>
 </td>
 
 <td>
-<a>login<img src="https://github.com/JohnnieLi/restaurant_website_sample/blob/master/demoImages/login.png" width="500" height="400"></a>
+<a>login<img src="https://github.com/JohnnieLi/restaurant_website_sample/blob/master/demoImages/login.png" width="500" height="300"></a>
 </td>
 </tr>
 </table>
